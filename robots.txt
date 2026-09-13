@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://eerielettuce3717.github.io
-Sitemap: https://eerielettuce3717.github.io/sitemap.xml
+Host: https://arbor-cae.github.io
+Sitemap: https://arbor-cae.github.io/sitemap.xml
