@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://eerielettuce3717.github.io/sitemap.xml
